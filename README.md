@@ -1,3 +1,4 @@
+INSERTION SORT
 1. [22, 27, 16, 2, 18, 6] Dizisinin Insertion Sort Aşamaları
 Insertion Sort Mantığı:
 Her adımda bir eleman alınır ve uygun yere yerleştirilir.
@@ -46,8 +47,9 @@ Best Case: O(n)  (Zaten sıralı dizi)
 Time Complexity & 18 Sayısının Durumu:
 Sıralanmış Dizi: [2, 6, 16, 18, 22, 27]
 18 sayısı ortada olduğu için → Average Case kapsamına girer.
-......
 
+......
+SELECTION SORT
 2. [7, 3, 5, 8, 2, 9, 4, 15, 6] Dizisinin Selection Sort İlk 4 Adımı
 Selection Sort Mantığı:
 Her adımda en küçük eleman bulunur ve baştaki uygun yere yerleştirilir.
